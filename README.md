@@ -1,4 +1,4 @@
-# NO:6 Named Entity Recognition
+# EXP:06 Named Entity Recognition
 
 ## AIM
 
